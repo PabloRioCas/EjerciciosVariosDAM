@@ -1,0 +1,4 @@
+w
+Esto es otra línea{
+ê Esto es una linea nueva den el fichero a través de PrintWriter
+ Esto es una linea otra den el fichero a través de PrintWriter
